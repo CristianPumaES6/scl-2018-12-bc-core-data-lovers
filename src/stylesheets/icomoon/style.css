@@ -1,0 +1,410 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?dc7y4b');
+  src:  url('fonts/icomoon.eot?dc7y4b#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?dc7y4b') format('truetype'),
+    url('fonts/icomoon.woff?dc7y4b') format('woff'),
+    url('fonts/icomoon.svg?dc7y4b#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path1:before {
+  content: "\e900";
+  color: rgb(255, 190, 8);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(255, 150, 11);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path3:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path4:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(255, 190, 8);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path5:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(255, 150, 11);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path6:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path7:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(255, 190, 8);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path8:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(255, 150, 11);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path9:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path10:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path11:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path12:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path13:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path14:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path15:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path16:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(255, 208, 11);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path17:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(255, 190, 8);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path18:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path19:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(255, 208, 11);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path20:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(255, 190, 8);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path21:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path22:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(255, 208, 11);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path23:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(255, 190, 8);
+}
+.icon-poke_trainer_three_star_icon-iconscom_67512 .path24:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path1:before {
+  content: "\e919";
+  color: rgb(13, 92, 158);
+}
+.icon-snorlax_icon-iconscom_67505 .path2:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(0, 155, 232);
+}
+.icon-snorlax_icon-iconscom_67505 .path3:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path4:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(13, 92, 158);
+}
+.icon-snorlax_icon-iconscom_67505 .path5:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(0, 155, 232);
+}
+.icon-snorlax_icon-iconscom_67505 .path6:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path7:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(0, 155, 232);
+}
+.icon-snorlax_icon-iconscom_67505 .path8:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(13, 92, 158);
+}
+.icon-snorlax_icon-iconscom_67505 .path9:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(6, 59, 102);
+}
+.icon-snorlax_icon-iconscom_67505 .path10:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(244, 215, 184);
+}
+.icon-snorlax_icon-iconscom_67505 .path11:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(252, 230, 200);
+}
+.icon-snorlax_icon-iconscom_67505 .path12:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(234, 199, 157);
+}
+.icon-snorlax_icon-iconscom_67505 .path13:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path14:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path15:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(252, 230, 200);
+}
+.icon-snorlax_icon-iconscom_67505 .path16:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path17:before {
+  content: "\e929";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path18:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path19:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-snorlax_icon-iconscom_67505 .path20:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path1:before {
+  content: "\e92d";
+  color: rgb(255, 255, 255);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path2:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(188, 202, 211);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path3:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(0, 170, 255);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path4:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(0, 104, 255);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path5:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path6:before {
+  content: "\e932";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path7:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path8:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path9:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path10:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(255, 143, 143);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path11:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(255, 26, 26);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path12:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path13:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(216, 229, 234);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path14:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path15:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path16:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(167, 187, 193);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path17:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path18:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(216, 229, 234);
+}
+.icon-Mobile_Phone_icon-iconscom_67541 .path19:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(51, 54, 58);
+}
+.icon-home3:before {
+  content: "\e902";
+}
+.icon-mobile:before {
+  content: "\e958";
+}
+.icon-undo2:before {
+  content: "\e967";
+}
+.icon-bubbles3:before {
+  content: "\e96f";
+}
+.icon-zoom-in:before {
+  content: "\e987";
+}
+.icon-zoom-out:before {
+  content: "\e988";
+}
+.icon-enlarge:before {
+  content: "\e989";
+}
+.icon-shrink:before {
+  content: "\e98a";
+}
+.icon-bug:before {
+  content: "\e999";
+}
+.icon-man:before {
+  content: "\e9dc";
+}
+.icon-woman:before {
+  content: "\e9dd";
+}
+.icon-plus:before {
+  content: "\ea0a";
+}
+.icon-minus:before {
+  content: "\ea0b";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-play3:before {
+  content: "\ea1c";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-tux:before {
+  content: "\eabd";
+}
+.icon-appleinc:before {
+  content: "\eabe";
+}
+.icon-reddit:before {
+  content: "\eac6";
+}
+.icon-html-five:before {
+  content: "\eae4";
+}
+.icon-html-five2:before {
+  content: "\eae5";
+}
+.icon-css3:before {
+  content: "\eae6";
+}
+.icon-git:before {
+  content: "\eae7";
+}
