@@ -4,3 +4,4 @@
 coverage/
 node_modules/
 src/.sass-cache
+src/stylesheets/screen.css

@@ -4,3 +4,20 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset";
+
+@import "components/colores";
+
+
+.header-class{
+    .css{
+        width: 100%;
+        height: auto;
+    }
+    .absolute{
+        position: absolute;
+        width: 100%;
+    }
+    .t-0{
+        top:0;
+    }
+}
